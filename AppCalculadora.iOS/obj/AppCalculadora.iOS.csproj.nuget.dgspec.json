@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stali\\Source\\Repos\\AppCalculadoraXamarin\\AppCalculadora.iOS\\AppCalculadora.iOS.csproj": {}
+    "C:\\Users\\stali\\source\\repos\\AppCalculadora\\AppCalculadora.iOS\\AppCalculadora.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stali\\Source\\Repos\\AppCalculadoraXamarin\\AppCalculadora.iOS\\AppCalculadora.iOS.csproj": {
+    "C:\\Users\\stali\\source\\repos\\AppCalculadora\\AppCalculadora.iOS\\AppCalculadora.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stali\\Source\\Repos\\AppCalculadoraXamarin\\AppCalculadora.iOS\\AppCalculadora.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\stali\\source\\repos\\AppCalculadora\\AppCalculadora.iOS\\AppCalculadora.iOS.csproj",
         "projectName": "AppCalculadora.iOS",
-        "projectPath": "C:\\Users\\stali\\Source\\Repos\\AppCalculadoraXamarin\\AppCalculadora.iOS\\AppCalculadora.iOS.csproj",
+        "projectPath": "C:\\Users\\stali\\source\\repos\\AppCalculadora\\AppCalculadora.iOS\\AppCalculadora.iOS.csproj",
         "packagesPath": "C:\\Users\\stali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stali\\Source\\Repos\\AppCalculadoraXamarin\\AppCalculadora.iOS\\obj\\",
+        "outputPath": "C:\\Users\\stali\\source\\repos\\AppCalculadora\\AppCalculadora.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\stali\\Source\\Repos\\AppCalculadoraXamarin\\AppCalculadora\\AppCalculadora.csproj": {
-                "projectPath": "C:\\Users\\stali\\Source\\Repos\\AppCalculadoraXamarin\\AppCalculadora\\AppCalculadora.csproj"
+              "C:\\Users\\stali\\source\\repos\\AppCalculadora\\AppCalculadora\\AppCalculadora.csproj": {
+                "projectPath": "C:\\Users\\stali\\source\\repos\\AppCalculadora\\AppCalculadora\\AppCalculadora.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\stali\\Source\\Repos\\AppCalculadoraXamarin\\AppCalculadora\\AppCalculadora.csproj": {
+    "C:\\Users\\stali\\source\\repos\\AppCalculadora\\AppCalculadora\\AppCalculadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stali\\Source\\Repos\\AppCalculadoraXamarin\\AppCalculadora\\AppCalculadora.csproj",
+        "projectUniqueName": "C:\\Users\\stali\\source\\repos\\AppCalculadora\\AppCalculadora\\AppCalculadora.csproj",
         "projectName": "AppCalculadora",
-        "projectPath": "C:\\Users\\stali\\Source\\Repos\\AppCalculadoraXamarin\\AppCalculadora\\AppCalculadora.csproj",
+        "projectPath": "C:\\Users\\stali\\source\\repos\\AppCalculadora\\AppCalculadora\\AppCalculadora.csproj",
         "packagesPath": "C:\\Users\\stali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stali\\Source\\Repos\\AppCalculadoraXamarin\\AppCalculadora\\obj\\",
+        "outputPath": "C:\\Users\\stali\\source\\repos\\AppCalculadora\\AppCalculadora\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

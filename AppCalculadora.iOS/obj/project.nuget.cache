@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4e5ReKsylhho8351XoohMTDypcWMAWQFf4DjtWlNL9ElUgTK1v4FppE4iJVaAyzweCaLnd/Rd21N6MypOY6/Kg==",
+  "dgSpecHash": "jjiwEuDqUo+r5i6DbwjW8ymiokrza0r87L3v5kCkNnZTsladvClZyhaGmbmbRsA/J3ewqGrvv3RiNNHMJf0q2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stali\\Source\\Repos\\AppCalculadoraXamarin\\AppCalculadora.iOS\\AppCalculadora.iOS.csproj",
+  "projectFilePath": "C:\\Users\\stali\\source\\repos\\AppCalculadora\\AppCalculadora.iOS\\AppCalculadora.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stali\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\stali\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",

@@ -3414,11 +3414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stali\\Source\\Repos\\AppCalculadoraXamarin\\AppCalculadora.Android\\AppCalculadora.Android.csproj",
+      "projectUniqueName": "C:\\Users\\stali\\source\\repos\\AppCalculadora\\AppCalculadora.Android\\AppCalculadora.Android.csproj",
       "projectName": "AppCalculadora.Android",
-      "projectPath": "C:\\Users\\stali\\Source\\Repos\\AppCalculadoraXamarin\\AppCalculadora.Android\\AppCalculadora.Android.csproj",
+      "projectPath": "C:\\Users\\stali\\source\\repos\\AppCalculadora\\AppCalculadora.Android\\AppCalculadora.Android.csproj",
       "packagesPath": "C:\\Users\\stali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stali\\Source\\Repos\\AppCalculadoraXamarin\\AppCalculadora.Android\\obj\\",
+      "outputPath": "C:\\Users\\stali\\source\\repos\\AppCalculadora\\AppCalculadora.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3439,8 +3439,8 @@
       "frameworks": {
         "monoandroid13.0": {
           "projectReferences": {
-            "C:\\Users\\stali\\Source\\Repos\\AppCalculadoraXamarin\\AppCalculadora\\AppCalculadora.csproj": {
-              "projectPath": "C:\\Users\\stali\\Source\\Repos\\AppCalculadoraXamarin\\AppCalculadora\\AppCalculadora.csproj"
+            "C:\\Users\\stali\\source\\repos\\AppCalculadora\\AppCalculadora\\AppCalculadora.csproj": {
+              "projectPath": "C:\\Users\\stali\\source\\repos\\AppCalculadora\\AppCalculadora\\AppCalculadora.csproj"
             }
           }
         }
