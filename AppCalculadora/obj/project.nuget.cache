@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZVItdy+U9IKkaX4WCM66QpC5Sk5e/TvS8nOEMK665aCixCqDgZEgSlqP9W2rOhbQy7W9254ZD7nToweLSFMJCw==",
+  "dgSpecHash": "SCK518EFtYXmwW1S6AWxGrsoU264iC5oXiGgZrv1B4Oc7yaVhoWXcowpivPlpO8CrdPjSZomZKYRDfTNuBPF/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stali\\source\\repos\\AppCalculadora\\AppCalculadora\\AppCalculadora.csproj",
+  "projectFilePath": "C:\\Users\\stali\\Source\\Repos\\AppCalculadoraXamarin\\AppCalculadora\\AppCalculadora.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stali\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\stali\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

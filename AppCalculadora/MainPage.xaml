@@ -7,10 +7,12 @@
 
     <ContentPage.Content>
         <AbsoluteLayout>
-            <Button x:Name="btnMensaje" Text="Echo por Stalyn Palma" Clicked="btnMesaje"/>
+            
             <StackLayout AbsoluteLayout.LayoutBounds="0,0,1,.32" AbsoluteLayout.LayoutFlags="All" 
                          HorizontalOptions="End" VerticalOptions="End" Padding="24,0" Spacing="0">
+                
                 <Label HorizontalOptions="End" Padding="8,0">
+                    
                     <Label.FormattedText>
                         <FormattedString>
                             <FormattedString.Spans>
@@ -80,7 +82,12 @@
 
                     <Button Grid.Column="2" Grid.Row="4" TextColor="#fff" FontSize="36" FontAttributes="Bold" VerticalOptions="Fill" Text="." BackgroundColor="Black" Clicked="Click_punto"/>
 
+                    
+                    <Button Grid.Column="0" Grid.Row="4" TextColor="#fff" FontSize="12" FontAttributes="Bold" VerticalOptions="Fill" Text="Hecho Por Stalyn Palma" BackgroundColor="Black" Clicked="btnMesaje"/>
+
+
                 </Grid>
+                
             </Frame>
            
         </AbsoluteLayout>

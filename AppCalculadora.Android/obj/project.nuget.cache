@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xCW6kfUievxyxte2X0r7voWWKhlY7hARgHm5zvPzRWauN6qQkfDfQqpRJU/j3ZSs/80yEOFEHqx6++O6H6Tyag==",
+  "dgSpecHash": "8nj//mLcMW0MGkWuN0k3h39iIamb6s6YwqcPB7Edjt79xQp7wP6yZmWiHM/m58PPR3FsCUHzjpAvs46+GMX/2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stali\\source\\repos\\AppCalculadora\\AppCalculadora.Android\\AppCalculadora.Android.csproj",
+  "projectFilePath": "C:\\Users\\stali\\Source\\Repos\\AppCalculadoraXamarin\\AppCalculadora.Android\\AppCalculadora.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\stali\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\stali\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
